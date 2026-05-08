@@ -1,0 +1,5 @@
+dotenv
+pydicom
+pyodbc
+pyinstaller
+tqdm

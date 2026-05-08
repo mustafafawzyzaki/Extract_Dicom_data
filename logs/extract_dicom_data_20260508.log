@@ -1,0 +1,2 @@
+2026-05-08 17:58:35,638 - INFO - Starting to Extract Dicom Data Script
+2026-05-08 17:58:56,752 - ERROR - Failed to connect to database: ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (64)')
